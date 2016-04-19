@@ -1,0 +1,2 @@
+# Knapsack
+There is a mailing tube of length M centimeters and inner radius R centimeters. There is a set of N (N < 16) cylindrical objects each with radius R centimeters (thus they will just fit in the tube). Each of the N objects has a value Vi and a length Li. Write and test a Pep/8 program that inputs: M, N and the N (Vi, Li) pairs and outputs: the indices of the subset of the objects that has the largest possible total value and will all fit in the tube simultaneously. This is a variation of the knapsack problem.
